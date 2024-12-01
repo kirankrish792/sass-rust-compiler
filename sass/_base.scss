@@ -1,0 +1,15 @@
+// Reset styles
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  // Body styles
+  body {
+    font-family: $font-family-base;
+    background-color: $background-color;
+    color: #333;
+    line-height: 1.6;
+  }
+  

@@ -1,0 +1,8 @@
+[package]
+name = "sass-compiler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+grass = "0.13.4"
+notify = "7.0.0"
